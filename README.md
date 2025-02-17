@@ -9,7 +9,7 @@ For now, it consist of :
 
 The default settings will product something similar to this :
 
-![test-composed-gr20.png](doc_resource/test-image.png)
+![test-composed-gr20.png](https://github.com/gpx-to-map/gpx-to-map-core/blob/main/doc_resource/test-image.png?raw=true)
 
 ## Contributions
 
